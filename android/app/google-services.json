@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "348065281549",
+    "project_id": "rntesttask",
+    "storage_bucket": "rntesttask.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348065281549:android:620da8b0791ae6135f0744",
+        "android_client_info": {
+          "package_name": "com.rntesttask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348065281549-9kt1d5or9av1j87rsl534buqq3t73d0h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2Kt8CpS09CE_Cwzaeme0iZaoGvDRX7Bs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348065281549-9kt1d5or9av1j87rsl534buqq3t73d0h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
